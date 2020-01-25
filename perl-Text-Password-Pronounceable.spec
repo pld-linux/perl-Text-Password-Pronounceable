@@ -4,7 +4,6 @@
 #
 %define		pdir	Text
 %define		pnam	Password-Pronounceable
-%include	/usr/lib/rpm/macros.perl
 Summary:	Text::Password::Pronounceable - Generate pronounceable passwords
 #Summary(pl.UTF-8):	
 Name:		perl-Text-Password-Pronounceable
