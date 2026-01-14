@@ -8,7 +8,7 @@ Summary:	Text::Password::Pronounceable - Generate pronounceable passwords
 #Summary(pl.UTF-8):	
 Name:		perl-Text-Password-Pronounceable
 Version:	0.30
-Release:	1
+Release:	2
 # same as perl
 License:	GPL v1+ or Artistic
 Group:		Development/Languages/Perl
